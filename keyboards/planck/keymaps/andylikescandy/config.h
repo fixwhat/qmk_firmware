@@ -17,15 +17,9 @@
 
 #define PERMISSIVE_HOLD
 
-#define PREVENT_STUCK_MODIFIERS
-
-
 /*
  * MIDI options
  */
-
-/* Prevent use of disabled MIDI features in the keymap */
-//#define MIDI_ENABLE_STRICT 1
 
 /* enable basic MIDI features:
    - MIDI notes can be sent when in Music mode is on
